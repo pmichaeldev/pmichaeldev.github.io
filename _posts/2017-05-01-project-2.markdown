@@ -1,0 +1,16 @@
+---
+title: Art Gallery
+subtitle: Art Gallery in OpenGL
+layout: default
+modal-id: 2
+date: 2017-05-01
+img: art-gallery.png
+thumbnail: art-gallery-thumbnail.png
+alt: art-gallery
+project-date: May 2017
+client: Start Bootstrap
+category: C++ OpenGL
+src: https://github.com/pmichael95/Art_Gallery-OpenGL
+description: A beautiful Art Gallery coded in C++ using OpenGL. Features super shapes, random room generation, random paintings, benches, pedestals, collision handling, and more!
+
+---

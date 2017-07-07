@@ -1,0 +1,14 @@
+---
+title: Pandemic!
+subtitle: Board Game in C++
+layout: default
+modal-id: 1
+img: pandemic.png
+src: https://github.com/pmichael95/Pandemic_Board_Game
+thumbnail: pandemic-thumbnail.png
+alt: pandemic
+project-date: May 2017
+category: C++
+description: Popular board game Pandemic! implemented in C++ with a console-based UI. Fully functional and uses handy design patterns to make things simple, efficient, and effective!
+
+---
