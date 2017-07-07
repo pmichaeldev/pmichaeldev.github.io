@@ -4,8 +4,8 @@ subtitle: Ray Tracer in C++
 layout: default
 modal-id: 4
 date: 2017-04-28
-img: raytracer.png
-thumbnail: raytracer-thumbnail.png
+img: raytracer.bmp
+thumbnail: raytracer-thumbnail.bmp
 alt: raytracer
 project-date: April 2017
 category: C++
