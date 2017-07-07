@@ -1,0 +1,15 @@
+---
+title: TechExpress
+subtitle: Online Tech Shop
+layout: default
+modal-id: 3
+date: 2014-05-01
+img: techexpress.png
+thumbnail: techexpress-thumbnail.png
+alt: techexpress
+project-date: May 2014
+category: PHP
+src: https://github.com/pmichael95/TechExpress
+description: An ergonomic and easy-to-use online tech shop, complete with breadcrumbs, session login, search, an admin panel, and more!
+
+---
