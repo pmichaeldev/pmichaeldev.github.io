@@ -1,0 +1,15 @@
+---
+title: Ray Tracer
+subtitle: Ray Tracer in C++
+layout: default
+modal-id: 4
+date: 2017-04-28
+img: raytracer.png
+thumbnail: raytracer-thumbnail.png
+alt: raytracer
+project-date: April 2017
+category: C++
+src: https://github.com/pmichael95/Ray-Tracer
+description: A straightforward C++ Ray Tracer. Renders several scenes (already provided) and saves the rendered image.
+
+---
