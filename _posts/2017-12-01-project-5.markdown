@@ -1,0 +1,15 @@
+---
+title: Dear Empty Diary
+subtitle: 2D Story game developed in Unity3D
+layout: default
+modal-id: 5
+date: 2017-12-01
+img: dear-empty-diary.png
+thumbnail: dear-empty-diary-thumbnail.png
+alt: dear-empty-diary
+project-date: December 2017
+category: C# Unity3D
+src: https://github.com/pmichael95/Dear-Empty-Diary
+description: A 2D story-driven game created in Unity3D. Follow Ruby as she tries to escape a dark parallel version of her world while discovering new truths about herself and her family.
+
+---
