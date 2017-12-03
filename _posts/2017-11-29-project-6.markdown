@@ -1,6 +1,6 @@
 ---
 title: Bonzee AI
-subtitle: A rendition of Bonzee (in C++) that implements an AI to play against the player.
+subtitle: Bonzee board game AI in C++
 layout: default
 modal-id: 6
 date: 2017-11-29
