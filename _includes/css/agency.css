@@ -36,14 +36,14 @@ a.active {
 }
 
 a {
-    color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.links }};
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #{{ site.data.template.color.links }};
+    color: #{{ site.data.template.color.primary }};
 }
 
 h1,
