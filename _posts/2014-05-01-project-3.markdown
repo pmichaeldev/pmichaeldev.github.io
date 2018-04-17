@@ -10,6 +10,6 @@ alt: dimension-wars
 project-date: April 2018
 category: Unity3D
 src: https://github.com/pmichael95/dimension-wars
-description: A HTC Vive Unity3D VR tactical RPG where the mission is to get to the choppers at the end and escape. Gameplay video is [here](https://drive.google.com/file/d/17Q5fkT9ia53MvCFZfpucr8uYkJda6OJL/view)
+description: A HTC Vive Unity3D VR tactical RPG where the mission is to get to the choppers at the end and escape.
 
 ---
