@@ -1,15 +1,15 @@
 ---
-title: TechExpress
-subtitle: Online Tech Shop
+title: Dimension Wars
+subtitle: VR Tactical RPG in Unity3D
 layout: default
 modal-id: 3
-date: 2014-05-01
-img: techexpress.png
-thumbnail: techexpress-thumbnail.png
-alt: techexpress
-project-date: May 2014
-category: PHP
-src: https://github.com/pmichael95/TechExpress
-description: An ergonomic and easy-to-use online tech shop, complete with breadcrumbs, session login, search, an admin panel, and more!
+date: 2018-04-14
+img: dimension-wars.png
+thumbnail: dimension-wars-thumbnail.png
+alt: dimension-wars
+project-date: April 2018
+category: Unity3D
+src: https://github.com/pmichael95/dimension-wars
+description: A HTC Vive Unity3D VR tactical RPG where the mission is to get to the choppers at the end and escape. Gameplay video is [here](https://drive.google.com/file/d/17Q5fkT9ia53MvCFZfpucr8uYkJda6OJL/view)
 
 ---
