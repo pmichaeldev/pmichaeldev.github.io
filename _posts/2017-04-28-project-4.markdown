@@ -9,7 +9,7 @@ thumbnail: raytracer-thumbnail.bmp
 alt: raytracer
 project-date: April 2017
 category: C++
-src: https://github.com/pmichael95/Ray-Tracer
-description: A straightforward C++ Ray Tracer. Renders several scenes (already provided) and saves the rendered image.
+src: https://github.com/pmichaeldev/Ray-Tracer
+description: A straightforward C++ Ray Tracer. Renders several scenes (already provided) and saves the rendered image to the disk.
 
 ---

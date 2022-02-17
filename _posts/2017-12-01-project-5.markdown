@@ -9,7 +9,7 @@ thumbnail: dear-empty-diary-thumbnail.png
 alt: dear-empty-diary
 project-date: December 2017
 category: C# Unity3D
-src: https://github.com/pmichael95/Dear-Empty-Diary
+src: https://github.com/pmichaeldev/Dear-Empty-Diary
 description: A 2D story-driven game created in Unity3D. Follow Ruby as she tries to escape a dark parallel version of her world while discovering new truths about herself and her family. 
 
 ---

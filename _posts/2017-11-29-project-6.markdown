@@ -9,7 +9,7 @@ thumbnail: bonzeeAI-thumbnail.png
 alt: bonzee-ai
 project-date: November 2017
 category: C++
-src: https://github.com/pmichael95/BonzeeAI
+src: https://github.com/pmichaeldev/BonzeeAI
 description: A rendition of Bonzee (in C++) that implements an informed AI to play against the player using minimax alpha-beta pruning.
 
 ---

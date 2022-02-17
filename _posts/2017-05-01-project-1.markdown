@@ -4,7 +4,7 @@ subtitle: Board Game in C++
 layout: default
 modal-id: 1
 img: pandemic.png
-src: https://github.com/pmichael95/Pandemic_Board_Game
+src: https://github.com/pmichaeldev/Pandemic_Board_Game
 thumbnail: pandemic-thumbnail.png
 alt: pandemic
 project-date: May 2017
